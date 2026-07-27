@@ -47,3 +47,27 @@ A responsive clone of a real-world landing page with JavaScript interactions.
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## 🎯 Learning Outcomes
+
+- Semantic HTML
+- Modern CSS
+- Responsive Design
+- JavaScript Fundamentals
+- DOM Manipulation
+- Clean Code Practices
+- Git & GitHub Workflow
+
+---
+
+## 👨‍💻 Author
+
+**Ragesh Upadhyay**
+
+- GitHub: https://github.com/Uparagesh
+
+---
+
+⭐ If you like this repository, feel free to star it.
